@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "531247198989",
+    "firebase_url": "https://manager-86b1f.firebaseio.com",
+    "project_id": "manager-86b1f",
+    "storage_bucket": "manager-86b1f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:531247198989:android:eb9f935e1f3bddcbfa7644",
+        "android_client_info": {
+          "package_name": "com.invertase.rnfirebasestarter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "531247198989-h5sv9btlsj5fkn5uacord84tnu02b7g8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpW0w4yKdfho5fGti7h4J3I9asdEMU61w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "531247198989-h5sv9btlsj5fkn5uacord84tnu02b7g8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
